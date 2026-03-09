@@ -22,4 +22,10 @@ Verified using ModelSim Intel FPGA Edition. The testbench (`tb_top.sv`) includes
 * **Packet Loss:** Successfully detected ACK timeout at T=3305ns; triggered Go-Back-N from Segment 0.
 * **Bit Corruption:** Injected 0xDEAD error into the bus; `packet_receiver` correctly flagged `CRC ERROR` and requested retransmission.
 * **Data Integrity:** Final reassembled message: `Part_1 Part_2 Part_3 Part_4`.
+
 ![Simulation Waveform](waveform.png)
+
+### Final Reconstructed Output
+The image below shows the testbench successfully reassembling the interleaved TCP segments into the final message:
+
+![Final Simulation Output](simulation_log.png)
