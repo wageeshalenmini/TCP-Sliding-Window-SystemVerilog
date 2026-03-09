@@ -1,0 +1,182 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/OneDrive/Documents/FPGA/TCP_Project
+vcrc32_calc
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1773057755
+!i10b 1
+!s100 c5PO@D0`Fh;`lLPhYR9K50
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJf]0KUGSRA_m?:HhVY]FY3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1773053271
+8crc32_calc.sv
+Fcrc32_calc.sv
+!i122 4
+L0 3 19
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1773057755.000000
+!s107 tb_top.sv|tcp_engine.sv|packet_receiver.sv|packet_sender.sv|crc32_calc.sv|data_buffer_ram.sv|tcp_defs.sv|
+Z7 !s90 -reportprogress|300|tcp_defs.sv|data_buffer_ram.sv|crc32_calc.sv|packet_sender.sv|packet_receiver.sv|tcp_engine.sv|tb_top.sv|
+!i113 1
+Z8 tCvgOpt 0
+vdata_buffer_ram
+R1
+R2
+!i10b 1
+!s100 =O3Y>]Jm7lk:J8dh5HSNY1
+R3
+IHS:Aj^>T2O0AIM;CdnMj61
+R4
+S1
+R0
+w1773053230
+8data_buffer_ram.sv
+Fdata_buffer_ram.sv
+!i122 4
+L0 3 15
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 tb_top.sv|tcp_engine.sv|packet_receiver.sv|packet_sender.sv|crc32_calc.sv|data_buffer_ram.sv|tcp_defs.sv|
+R7
+!i113 1
+R8
+vpacket_receiver
+R1
+Z10 DXx4 work 8 tcp_defs 0 22 NM8>D`J:RC:0Ij?R^E5?12
+R2
+!i10b 1
+!s100 >kN`0iT3BQ>G<FN@Z6=5`3
+R3
+I73@bbK=O9TF92[P>MOf6L1
+R4
+S1
+R0
+w1773053401
+8packet_receiver.sv
+Fpacket_receiver.sv
+!i122 4
+L0 3 59
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vpacket_sender
+R1
+R2
+!i10b 1
+!s100 P3;zLmlB3h^S6`?TJ?<G@3
+R3
+IkIjKW4zL`GTU3MTPOaK3d3
+R4
+S1
+R0
+w1773053362
+8packet_sender.sv
+Fpacket_sender.sv
+!i122 4
+L0 3 36
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vtb_top
+R1
+R10
+R2
+!i10b 1
+!s100 9=aZknGQ]Fb<zVDj0C?9=2
+R3
+I<2U_z@aX0SY^6Pd[`R^[O2
+R4
+S1
+R0
+w1773057741
+8tb_top.sv
+Ftb_top.sv
+!i122 4
+L0 3 73
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+Xtcp_defs
+R1
+R2
+!i10b 1
+!s100 ?k=T_PX2fmo1KLR<:HVfK2
+R3
+INM8>D`J:RC:0Ij?R^E5?12
+VNM8>D`J:RC:0Ij?R^E5?12
+S1
+R0
+w1773053158
+8tcp_defs.sv
+Ftcp_defs.sv
+!i122 4
+L0 3 0
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
+vtcp_engine
+R1
+R10
+R2
+!i10b 1
+!s100 JNl__ERJ:fJ_eg8cP4P<Y1
+R3
+IncKXBADOY?_P3zkQnR>Ra0
+R4
+S1
+R0
+w1773053311
+8tcp_engine.sv
+Ftcp_engine.sv
+!i122 4
+L0 3 107
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+R8
